@@ -1,0 +1,5 @@
+C:\Users\sam\Documents\Visual Studio 2017\Projects\CustomerRepository\Customer.ViewModel\bin\Debug\Customer.ViewModel.dll
+C:\Users\sam\Documents\Visual Studio 2017\Projects\CustomerRepository\Customer.ViewModel\bin\Debug\Customer.ViewModel.pdb
+C:\Users\sam\Documents\Visual Studio 2017\Projects\CustomerRepository\Customer.ViewModel\obj\Debug\Customer.ViewModel.dll
+C:\Users\sam\Documents\Visual Studio 2017\Projects\CustomerRepository\Customer.ViewModel\obj\Debug\Customer.ViewModel.pdb
+C:\Users\sam\Documents\Visual Studio 2017\Projects\CustomerRepository\Customer.ViewModel\obj\Debug\Customer.ViewModel.csprojResolveAssemblyReference.cache

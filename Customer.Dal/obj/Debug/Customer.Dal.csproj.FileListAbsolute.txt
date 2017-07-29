@@ -1,0 +1,4 @@
+c:\users\sam\documents\visual studio 2017\Projects\CustomerRepository\Customer.Dal\bin\Debug\Customer.Dal.dll
+c:\users\sam\documents\visual studio 2017\Projects\CustomerRepository\Customer.Dal\bin\Debug\Customer.Dal.pdb
+c:\users\sam\documents\visual studio 2017\Projects\CustomerRepository\Customer.Dal\obj\Debug\Customer.Dal.dll
+c:\users\sam\documents\visual studio 2017\Projects\CustomerRepository\Customer.Dal\obj\Debug\Customer.Dal.pdb

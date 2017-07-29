@@ -1,0 +1,9 @@
+c:\users\sam\documents\visual studio 2017\Projects\CustomerRepository\Customer.Repository\bin\Debug\Customer.Repository.dll
+c:\users\sam\documents\visual studio 2017\Projects\CustomerRepository\Customer.Repository\bin\Debug\Customer.Repository.pdb
+c:\users\sam\documents\visual studio 2017\Projects\CustomerRepository\Customer.Repository\obj\Debug\Customer.Repository.dll
+c:\users\sam\documents\visual studio 2017\Projects\CustomerRepository\Customer.Repository\obj\Debug\Customer.Repository.pdb
+C:\Users\sam\Documents\Visual Studio 2017\Projects\CustomerRepository\Customer.Repository\obj\Debug\Customer.Repository.csprojResolveAssemblyReference.cache
+C:\Users\sam\Documents\Visual Studio 2017\Projects\CustomerRepository\Customer.Repository\bin\Debug\Customer.ViewModel.dll
+C:\Users\sam\Documents\Visual Studio 2017\Projects\CustomerRepository\Customer.Repository\bin\Debug\Customer.ViewModel.pdb
+C:\Users\sam\Documents\Visual Studio 2017\Projects\CustomerRepository\Customer.Repository\bin\Debug\Customer.Dal.dll
+C:\Users\sam\Documents\Visual Studio 2017\Projects\CustomerRepository\Customer.Repository\bin\Debug\Customer.Dal.pdb

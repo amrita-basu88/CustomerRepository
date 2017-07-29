@@ -1,0 +1,13 @@
+c:\users\sam\documents\visual studio 2017\Projects\CustomerRepository\Customer.Services\obj\Debug\Customer.Services.csprojResolveAssemblyReference.cache
+C:\Users\sam\Documents\Visual Studio 2017\Projects\CustomerRepository\Customer.Services\bin\Debug\Customer.Services.dll
+C:\Users\sam\Documents\Visual Studio 2017\Projects\CustomerRepository\Customer.Services\bin\Debug\Customer.Services.pdb
+C:\Users\sam\Documents\Visual Studio 2017\Projects\CustomerRepository\Customer.Services\bin\Debug\Customer.Dal.dll
+C:\Users\sam\Documents\Visual Studio 2017\Projects\CustomerRepository\Customer.Services\bin\Debug\Customer.Repository.dll
+C:\Users\sam\Documents\Visual Studio 2017\Projects\CustomerRepository\Customer.Services\bin\Debug\Customer.Dal.pdb
+C:\Users\sam\Documents\Visual Studio 2017\Projects\CustomerRepository\Customer.Services\bin\Debug\Customer.Repository.pdb
+C:\Users\sam\Documents\Visual Studio 2017\Projects\CustomerRepository\Customer.Services\obj\Debug\Customer.Services.dll
+C:\Users\sam\Documents\Visual Studio 2017\Projects\CustomerRepository\Customer.Services\obj\Debug\Customer.Services.pdb
+C:\Users\sam\Documents\Visual Studio 2017\Projects\CustomerRepository\Customer.Services\bin\Debug\Customer.ViewModel.dll
+C:\Users\sam\Documents\Visual Studio 2017\Projects\CustomerRepository\Customer.Services\bin\Debug\Customer.ViewModel.pdb
+C:\Users\sam\Documents\Visual Studio 2017\Projects\CustomerRepository\Customer.Services\bin\Debug\CustomerService.Exceptions.dll
+C:\Users\sam\Documents\Visual Studio 2017\Projects\CustomerRepository\Customer.Services\bin\Debug\CustomerService.Exceptions.pdb
