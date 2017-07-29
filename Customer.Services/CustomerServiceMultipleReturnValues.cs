@@ -25,7 +25,7 @@ namespace Customer.Services
             {
                 var customer = new Customer.ViewModel.Customer(
                     customerToCreateDto.Name,
-                    customerToCreateDto.City);
+                    "skjkas");
 
                 customer.Id = _idFactory.Create();
 

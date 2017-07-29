@@ -160,5 +160,33 @@ namespace CustomerService.Tests
             //Assert
             mockIdFactory.Verify(x => x.Create(), Times.AtLeastOnce());
         }
+        [Test]
+        public void a_full_name_should_be_created_from_first_and_last_name()
+        {
+            //Arrange
+            var customerToCreateDto = new CustomerToCreateDTO
+            {
+                Name = "Bob",
+                City = "Builder"
+            };
+
+            var mockCustomerRepository = new Mock<ICustomerRepository>();
+            var mockFullNameBuilder = new Mock<ICustomerFullNameBuilder>();
+
+            mockFullNameBuilder.Setup(
+                x => x.From(It.IsAny<string>(), It.IsAny<string>()))
+                .Returns(()=>customerToCreateDto.Name);
+
+            var customerService = new CustomerServiceCorrectValuePassesThrough(
+                mockCustomerRepository.Object, mockFullNameBuilder.Object);
+
+            //Act
+            customerService.Create(customerToCreateDto);
+
+            //Assert
+            mockFullNameBuilder.Verify(x => x.From
+                                      (It.Is<string>(f => f.Equals(customerToCreateDto.Name, StringComparison.InvariantCulture)),
+                                       It.Is<string>(f => f.Equals(customerToCreateDto.City, StringComparison.InvariantCulture))));
+        }
     }
 }

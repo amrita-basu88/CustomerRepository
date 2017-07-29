@@ -40,6 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CustomerServiceCorrectValuePassesThrough.cs" />
     <Compile Include="CustomerServiceDemo3.cs" />
     <Compile Include="CustomerServicemultiple.cs" />
     <Compile Include="CustomerServiceMultipleReturnValues.cs" />

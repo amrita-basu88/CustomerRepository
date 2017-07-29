@@ -41,6 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ICustomerAddressBuilder.cs" />
+    <Compile Include="ICustomerFullNameBuilder.cs" />
     <Compile Include="ICustomerRepository.cs" />
     <Compile Include="IIdFactory.cs" />
     <Compile Include="IMailingAddressFactory.cs" />
