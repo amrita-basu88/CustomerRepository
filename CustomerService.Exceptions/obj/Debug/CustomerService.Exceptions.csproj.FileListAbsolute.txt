@@ -3,3 +3,8 @@ C:\Users\sam\Documents\Visual Studio 2017\Projects\CustomerRepository\CustomerSe
 C:\Users\sam\Documents\Visual Studio 2017\Projects\CustomerRepository\CustomerService.Exceptions\obj\Debug\CustomerService.Exceptions.csprojResolveAssemblyReference.cache
 C:\Users\sam\Documents\Visual Studio 2017\Projects\CustomerRepository\CustomerService.Exceptions\obj\Debug\CustomerService.Exceptions.dll
 C:\Users\sam\Documents\Visual Studio 2017\Projects\CustomerRepository\CustomerService.Exceptions\obj\Debug\CustomerService.Exceptions.pdb
+C:\Projects\CustomerRepository\CustomerService.Exceptions\bin\Debug\CustomerService.Exceptions.dll
+C:\Projects\CustomerRepository\CustomerService.Exceptions\bin\Debug\CustomerService.Exceptions.pdb
+C:\Projects\CustomerRepository\CustomerService.Exceptions\obj\Debug\CustomerService.Exceptions.csprojResolveAssemblyReference.cache
+C:\Projects\CustomerRepository\CustomerService.Exceptions\obj\Debug\CustomerService.Exceptions.dll
+C:\Projects\CustomerRepository\CustomerService.Exceptions\obj\Debug\CustomerService.Exceptions.pdb

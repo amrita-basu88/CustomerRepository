@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="CustomerServiceDemo3.cs" />
     <Compile Include="CustomerServicemultiple.cs" />
+    <Compile Include="CustomerServiceMultipleReturnValues.cs" />
     <Compile Include="CustomerserviceOutparam.cs" />
     <Compile Include="CustomerServices.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

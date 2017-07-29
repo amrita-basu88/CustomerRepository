@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="ICustomerAddressBuilder.cs" />
     <Compile Include="ICustomerRepository.cs" />
+    <Compile Include="IIdFactory.cs" />
     <Compile Include="IMailingAddressFactory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

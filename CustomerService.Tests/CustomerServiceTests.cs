@@ -133,5 +133,32 @@ namespace CustomerService.Tests
             //Assert
             mockCustomerRepository.Verify(x => x.Save(It.IsAny<Customer.ViewModel.Customer>()));
         }
+
+        [Test]
+        public void each_customer_should_be_assigned_an_id()
+        {
+            //Arrange
+            var listOfCustomersToCreate = new List<CustomerToCreateDTO>
+                                                  {
+                                                      new CustomerToCreateDTO(),
+                                                      new CustomerToCreateDTO()
+                                                  };
+
+            var mockCustomerRepository = new Mock<ICustomerRepository>();
+            var mockIdFactory = new Mock<IIdFactory>();
+            var i = 1;
+            mockIdFactory.Setup(x => x.Create())
+                .Returns(() => i)
+                .Callback(()=>i++);
+
+            var customerService = new CustomerServiceMultipleReturnValues(
+                mockCustomerRepository.Object, mockIdFactory.Object);
+
+            //Act
+            customerService.Create(listOfCustomersToCreate);
+
+            //Assert
+            mockIdFactory.Verify(x => x.Create(), Times.AtLeastOnce());
+        }
     }
 }

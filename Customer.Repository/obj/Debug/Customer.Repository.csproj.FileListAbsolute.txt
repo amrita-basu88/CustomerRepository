@@ -7,3 +7,12 @@ C:\Users\sam\Documents\Visual Studio 2017\Projects\CustomerRepository\Customer.R
 C:\Users\sam\Documents\Visual Studio 2017\Projects\CustomerRepository\Customer.Repository\bin\Debug\Customer.ViewModel.pdb
 C:\Users\sam\Documents\Visual Studio 2017\Projects\CustomerRepository\Customer.Repository\bin\Debug\Customer.Dal.dll
 C:\Users\sam\Documents\Visual Studio 2017\Projects\CustomerRepository\Customer.Repository\bin\Debug\Customer.Dal.pdb
+C:\Projects\CustomerRepository\Customer.Repository\bin\Debug\Customer.Repository.dll
+C:\Projects\CustomerRepository\Customer.Repository\bin\Debug\Customer.Repository.pdb
+C:\Projects\CustomerRepository\Customer.Repository\bin\Debug\Customer.Dal.dll
+C:\Projects\CustomerRepository\Customer.Repository\bin\Debug\Customer.ViewModel.dll
+C:\Projects\CustomerRepository\Customer.Repository\bin\Debug\Customer.Dal.pdb
+C:\Projects\CustomerRepository\Customer.Repository\bin\Debug\Customer.ViewModel.pdb
+C:\Projects\CustomerRepository\Customer.Repository\obj\Debug\Customer.Repository.csprojResolveAssemblyReference.cache
+C:\Projects\CustomerRepository\Customer.Repository\obj\Debug\Customer.Repository.dll
+C:\Projects\CustomerRepository\Customer.Repository\obj\Debug\Customer.Repository.pdb
