@@ -7,3 +7,5 @@ C:\Projects\CustomerRepository\Customer.Dal\bin\Debug\Customer.Dal.pdb
 C:\Projects\CustomerRepository\Customer.Dal\obj\Debug\Customer.Dal.csprojResolveAssemblyReference.cache
 C:\Projects\CustomerRepository\Customer.Dal\obj\Debug\Customer.Dal.dll
 C:\Projects\CustomerRepository\Customer.Dal\obj\Debug\Customer.Dal.pdb
+C:\Projects\CustomerRepository\Customer.Dal\bin\Debug\Customer.ViewModel.dll
+C:\Projects\CustomerRepository\Customer.Dal\bin\Debug\Customer.ViewModel.pdb

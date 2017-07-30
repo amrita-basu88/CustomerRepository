@@ -10,5 +10,6 @@ namespace Customer.Repository
     public interface ICustomerRepository
     {
         void Save(Customer.ViewModel.Customer customer);
+        void SaveSpecial(Customer.ViewModel.Customer customer);
     }
 }

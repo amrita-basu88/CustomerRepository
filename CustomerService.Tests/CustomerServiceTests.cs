@@ -188,5 +188,43 @@ namespace CustomerService.Tests
                                       (It.Is<string>(f => f.Equals(customerToCreateDto.Name, StringComparison.InvariantCulture)),
                                        It.Is<string>(f => f.Equals(customerToCreateDto.City, StringComparison.InvariantCulture))));
         }
+
+        [Test]
+        public void a_special_save_routine_should_be_used()
+        {
+            //Arrange
+            var mockCustomerRepository = new Mock<ICustomerRepository>();
+            var mockCustomerStatusFactory = new Mock<ICustomerStatusFactory>();
+
+            var customerToCreate = new CustomerToCreateDTO
+            {
+                DesiredStatus = CustomerStatus.Platinum,
+                Name = "Bob",
+                City = "Builder"
+            };
+
+            mockCustomerStatusFactory.Setup(
+                x => x.CreateFrom(
+                    It.Is<CustomerToCreateDTO>(
+                        y => y.DesiredStatus == CustomerStatus.Platinum)))
+                        .Returns(CustomerStatus.Platinum);
+
+            //mockCustomerStatusFactory.Setup(
+            //    x => x.CreateFrom(
+            //        It.Is<CustomerToCreateDTO>(
+            //            y => y.DesiredStatus == CustomerStatus.Platinum)))
+            //    .Returns(CustomerStatus.Platinum);
+
+
+            var customerService = new CustomerServiceControlFlow(
+                mockCustomerRepository.Object, mockCustomerStatusFactory.Object);
+
+            //Act
+            customerService.Create(customerToCreate);
+
+            //Assert
+            mockCustomerRepository.Verify(
+                x => x.SaveSpecial(It.IsAny<Customer.ViewModel.Customer>()));
+        }
     }
 }

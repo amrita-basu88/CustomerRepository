@@ -13,7 +13,7 @@ namespace Customer.ViewModel
         public string City { get; set; }
         public Address Address { get; set; }
         public int Id { get; set; }
-
+        public CustomerStatus StatusLevel { get; set; }
         public MailingAddress MailingAddress { get; set; }
         public Customer(string name, string city)
         {

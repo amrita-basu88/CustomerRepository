@@ -43,5 +43,11 @@
     <Compile Include="CustomerToCreateDTO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Customer.ViewModel\Customer.ViewModel.csproj">
+      <Project>{c932ddbb-7dc3-4d52-b5b3-fc2e9b41f724}</Project>
+      <Name>Customer.ViewModel</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

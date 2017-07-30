@@ -2,8 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
- 
+using System.Threading.Tasks; 
+using Customer.ViewModel;
 
 namespace Customer.Dal
 {
@@ -11,5 +11,6 @@ namespace Customer.Dal
     {
         public string Name { get; set; }
         public string City { get; set; }
+        public CustomerStatus DesiredStatus { get; set; }
     }
 }
