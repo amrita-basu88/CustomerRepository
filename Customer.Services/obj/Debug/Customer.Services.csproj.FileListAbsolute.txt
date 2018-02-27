@@ -24,3 +24,18 @@ C:\Projects\CustomerRepository\Customer.Services\bin\Debug\CustomerService.Excep
 C:\Projects\CustomerRepository\Customer.Services\obj\Debug\Customer.Services.csprojResolveAssemblyReference.cache
 C:\Projects\CustomerRepository\Customer.Services\obj\Debug\Customer.Services.dll
 C:\Projects\CustomerRepository\Customer.Services\obj\Debug\Customer.Services.pdb
+C:\Projects\Unit Test with Mocking\Customer.Services\bin\Debug\Customer.Services.dll
+C:\Projects\Unit Test with Mocking\Customer.Services\bin\Debug\Customer.Services.pdb
+C:\Projects\Unit Test with Mocking\Customer.Services\bin\Debug\Customer.Dal.dll
+C:\Projects\Unit Test with Mocking\Customer.Services\bin\Debug\Customer.Repository.dll
+C:\Projects\Unit Test with Mocking\Customer.Services\bin\Debug\Customer.ViewModel.dll
+C:\Projects\Unit Test with Mocking\Customer.Services\bin\Debug\CustomerService.Exceptions.dll
+C:\Projects\Unit Test with Mocking\Customer.Services\bin\Debug\Customer.Dal.pdb
+C:\Projects\Unit Test with Mocking\Customer.Services\bin\Debug\Customer.Repository.pdb
+C:\Projects\Unit Test with Mocking\Customer.Services\bin\Debug\Customer.ViewModel.pdb
+C:\Projects\Unit Test with Mocking\Customer.Services\bin\Debug\CustomerService.Exceptions.pdb
+C:\Projects\Unit Test with Mocking\Customer.Services\obj\Debug\Customer.Services.csprojResolveAssemblyReference.cache
+C:\Projects\Unit Test with Mocking\Customer.Services\obj\Debug\Customer.Services.dll
+C:\Projects\Unit Test with Mocking\Customer.Services\obj\Debug\Customer.Services.pdb
+C:\Projects\Unit Test with Mocking\Customer.Services\bin\Debug\Customer.Common.dll
+C:\Projects\Unit Test with Mocking\Customer.Services\bin\Debug\Customer.Common.pdb

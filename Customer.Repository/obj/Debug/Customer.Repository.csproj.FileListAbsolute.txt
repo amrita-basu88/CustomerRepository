@@ -16,3 +16,12 @@ C:\Projects\CustomerRepository\Customer.Repository\bin\Debug\Customer.ViewModel.
 C:\Projects\CustomerRepository\Customer.Repository\obj\Debug\Customer.Repository.csprojResolveAssemblyReference.cache
 C:\Projects\CustomerRepository\Customer.Repository\obj\Debug\Customer.Repository.dll
 C:\Projects\CustomerRepository\Customer.Repository\obj\Debug\Customer.Repository.pdb
+C:\Projects\Unit Test with Mocking\Customer.Repository\bin\Debug\Customer.Repository.dll
+C:\Projects\Unit Test with Mocking\Customer.Repository\bin\Debug\Customer.Repository.pdb
+C:\Projects\Unit Test with Mocking\Customer.Repository\bin\Debug\Customer.Dal.dll
+C:\Projects\Unit Test with Mocking\Customer.Repository\bin\Debug\Customer.ViewModel.dll
+C:\Projects\Unit Test with Mocking\Customer.Repository\bin\Debug\Customer.Dal.pdb
+C:\Projects\Unit Test with Mocking\Customer.Repository\bin\Debug\Customer.ViewModel.pdb
+C:\Projects\Unit Test with Mocking\Customer.Repository\obj\Debug\Customer.Repository.csprojResolveAssemblyReference.cache
+C:\Projects\Unit Test with Mocking\Customer.Repository\obj\Debug\Customer.Repository.dll
+C:\Projects\Unit Test with Mocking\Customer.Repository\obj\Debug\Customer.Repository.pdb

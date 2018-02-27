@@ -47,9 +47,14 @@
     <Compile Include="CustomerServiceMultipleReturnValues.cs" />
     <Compile Include="CustomerserviceOutparam.cs" />
     <Compile Include="CustomerServices.cs" />
+    <Compile Include="CustomerServicesRevised.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Customer.Common\Customer.Common.csproj">
+      <Project>{e0c67fa4-c9af-434d-bf8b-2b4dee904738}</Project>
+      <Name>Customer.Common</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Customer.Dal\Customer.Dal.csproj">
       <Project>{e1f3c475-3f84-4f85-b888-92ea7016f618}</Project>
       <Name>Customer.Dal</Name>

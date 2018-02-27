@@ -9,3 +9,10 @@ C:\Projects\CustomerRepository\Customer.Dal\obj\Debug\Customer.Dal.dll
 C:\Projects\CustomerRepository\Customer.Dal\obj\Debug\Customer.Dal.pdb
 C:\Projects\CustomerRepository\Customer.Dal\bin\Debug\Customer.ViewModel.dll
 C:\Projects\CustomerRepository\Customer.Dal\bin\Debug\Customer.ViewModel.pdb
+C:\Projects\Unit Test with Mocking\Customer.Dal\bin\Debug\Customer.Dal.dll
+C:\Projects\Unit Test with Mocking\Customer.Dal\bin\Debug\Customer.Dal.pdb
+C:\Projects\Unit Test with Mocking\Customer.Dal\bin\Debug\Customer.ViewModel.dll
+C:\Projects\Unit Test with Mocking\Customer.Dal\bin\Debug\Customer.ViewModel.pdb
+C:\Projects\Unit Test with Mocking\Customer.Dal\obj\Debug\Customer.Dal.csprojResolveAssemblyReference.cache
+C:\Projects\Unit Test with Mocking\Customer.Dal\obj\Debug\Customer.Dal.dll
+C:\Projects\Unit Test with Mocking\Customer.Dal\obj\Debug\Customer.Dal.pdb

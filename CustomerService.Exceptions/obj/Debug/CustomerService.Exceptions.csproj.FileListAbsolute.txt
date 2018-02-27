@@ -8,3 +8,7 @@ C:\Projects\CustomerRepository\CustomerService.Exceptions\bin\Debug\CustomerServ
 C:\Projects\CustomerRepository\CustomerService.Exceptions\obj\Debug\CustomerService.Exceptions.csprojResolveAssemblyReference.cache
 C:\Projects\CustomerRepository\CustomerService.Exceptions\obj\Debug\CustomerService.Exceptions.dll
 C:\Projects\CustomerRepository\CustomerService.Exceptions\obj\Debug\CustomerService.Exceptions.pdb
+C:\Projects\Unit Test with Mocking\CustomerService.Exceptions\bin\Debug\CustomerService.Exceptions.dll
+C:\Projects\Unit Test with Mocking\CustomerService.Exceptions\bin\Debug\CustomerService.Exceptions.pdb
+C:\Projects\Unit Test with Mocking\CustomerService.Exceptions\obj\Debug\CustomerService.Exceptions.dll
+C:\Projects\Unit Test with Mocking\CustomerService.Exceptions\obj\Debug\CustomerService.Exceptions.pdb

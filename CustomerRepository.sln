@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerService.Tests", "Cu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerService.Exceptions", "CustomerService.Exceptions\CustomerService.Exceptions.csproj", "{0DEEE7BA-06CE-45BF-BEB8-DA2737B9797B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Customer.Common", "Customer.Common\Customer.Common.csproj", "{E0C67FA4-C9AF-434D-BF8B-2B4DEE904738}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{0DEEE7BA-06CE-45BF-BEB8-DA2737B9797B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0DEEE7BA-06CE-45BF-BEB8-DA2737B9797B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0DEEE7BA-06CE-45BF-BEB8-DA2737B9797B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0C67FA4-C9AF-434D-BF8B-2B4DEE904738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0C67FA4-C9AF-434D-BF8B-2B4DEE904738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0C67FA4-C9AF-434D-BF8B-2B4DEE904738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0C67FA4-C9AF-434D-BF8B-2B4DEE904738}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -8,6 +8,7 @@ using System.Collections.Generic;
 using CustomerService.Exceptions;
 using Customer.Dal;
 using Customer.ViewModel;
+using Customer.Common;
 
 namespace CustomerService.Tests
 {
@@ -225,6 +226,25 @@ namespace CustomerService.Tests
             //Assert
             mockCustomerRepository.Verify(
                 x => x.SaveSpecial(It.IsAny<Customer.ViewModel.Customer>()));
+        }
+
+        [Test]
+        [ExpectedException(typeof(CustomerCreationException))]
+        public void When_creating_a_customer_which_has_an_invalid_address_an_exception_should_be_raised()
+        {
+            //Arrange
+            var mockCustomerRepository = new Mock<ICustomerRepository>();
+            var mockCustomerAddressFactory = new Mock<ICustomerAddressFactory>();
+
+
+            var customerService = new CustomerServicesRevised(
+                mockCustomerRepository.Object,
+                mockCustomerAddressFactory.Object);
+
+            //Act
+            customerService.Create(new CustomerToCreateDTO());
+
+            //Assert
         }
     }
 }
